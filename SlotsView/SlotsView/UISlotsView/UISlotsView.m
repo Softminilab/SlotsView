@@ -69,7 +69,6 @@
         self.isImage = NO;
         ary = [self createLetokeAryWith:ballAry column:column];
     }
-    
     [self showBall:ary duration:duration];
 }
 
